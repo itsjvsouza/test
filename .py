@@ -1,1 +1,2 @@
-print("olá, cesar")
+for i in range (2):
+    print("oi")
